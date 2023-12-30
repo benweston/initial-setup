@@ -6,6 +6,6 @@
 
 <div align="justify">
 
-> Installs some initial software tooling onto clean Macbook Pro, which allows a user to develop infrastructure  projects on [Google Cloud](https://cloud.google.com/?hl=en).   
+> Installs some initial software tooling onto a clean Macbook Pro, which allows a user to develop infrastructure  projects on [Google Cloud](https://cloud.google.com/?hl=en).   
 
 </div>
