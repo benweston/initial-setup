@@ -18,3 +18,5 @@ All current & upcoming work is captured within the following project:
 | Project Name | Description |
 | :----- | :----- |
 | [Initial Setup](https://github.com/users/benweston/projects/10) | Kanban board for the Initial Setup repository. |
+
+</div>
