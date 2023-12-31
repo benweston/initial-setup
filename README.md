@@ -20,3 +20,13 @@ All current & upcoming work is captured within the following project:
 | [Initial Setup](https://github.com/users/benweston/projects/10) | Kanban board for the Initial Setup repository. |
 
 </div>
+
+## License
+
+<div align="left">
+    <p align="left">
+        <a href="https://github.com/benweston/initial-setup/blob/main/LICENSE">
+            <img src="https://github.com/benweston/initial-setup/blob/main/img/license-icon-mit.png" width="88" height="31" alt="MIT License Icon" />
+        </a>
+    </p>
+</div>
