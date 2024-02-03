@@ -6,7 +6,7 @@
 
 <div align="justify">
 
-> Installs some initial software tooling onto a clean Macbook Pro, which allows a user to develop infrastructure projects.   
+> Installs some initial software tooling onto a clean MacBook Pro, which allows a user to develop infrastructure projects.   
 
 </div>
 
